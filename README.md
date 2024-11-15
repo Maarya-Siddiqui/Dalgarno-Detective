@@ -9,4 +9,4 @@ The consensus Shine-Dalgarno sequence is AGGAGG. However, this varies with each 
 Genes used in this project can be found using the following link: [EcoCyc](https://ecocyc.org/genbro/genbro.shtml?orgid=ECOLI&replicon=COLI-K12)
 
 # Findings
-In thd 20 E.Coli genes observed, the same consensus Shine-Dalgarno sequence was detected!
+In the 20 E.Coli genes observed, the same consensus Shine-Dalgarno sequence was detected!
